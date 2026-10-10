@@ -202,19 +202,4 @@ The dashboard provides a consolidated view of workforce size and employee attrit
 **Portfolio project:** HR Employee Attrition & Workforce Analytics Dashboard  
 **Author:** Ambi Rajan **
 **Skills demonstrated:** Power BI · DAX · Data Visualization · KPI Design · Workforce Analytics · Business Insight Communication
-
-
-## Project Files
-
-hr-employee-attrition/
-├── README.md
-├── HR-Employee-Attrition.pbix
-├── HR-Data.xlsx
-└── images/
-    ├── dashboard-preview.png
-    ├── kpi-cards.png
-    ├── attrition-by-department.png
-    ├── attrition-by-job-satisfaction.png
-    ├── attrition-by-job-role.png
-    └── attrition-by-age-group.png
     
